@@ -76,7 +76,7 @@ const AboutPage = () => {
       {/* Hero Section */}
       <section className="bg-blue-700 py-16 px-4 text-white">
         <div className="container mx-auto max-w-6xl">
-          <h1 className="text-4xl font-bold mb-4">About Neighborly</h1>
+          <h1 className="text-4xl font-bold mb-4">About UrbanEase</h1>
           <p className="text-xl max-w-2xl">
             We're transforming society management with technology that brings communities together and streamlines operations.
           </p>
